@@ -1,4 +1,4 @@
 # Dizajniranje Softvera - Resursi
 
-- [Notes](./Notes/README.md)
+- [**_Gradivo sa vežbi_**](./vezbe)
  
