@@ -6,3 +6,6 @@
 - [**_Vežbe 4_**](./vezbe/04.md) (TODO)
 
 ## Reference
+
+- [**_Rad sa stringovima_**](./refs/string.md) (TODO)
+- [**_Rad sa nizovima_**](./refs/array.md) (TODO)
