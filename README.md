@@ -7,5 +7,5 @@
 
 ## Reference
 
-- [**_Rad sa stringovima_**](./refs/string.md) (TODO)
-- [**_Rad sa nizovima_**](./refs/array.md) (TODO)
+- [**_Rad sa stringovima_**](./ref/string.md) (TODO)
+- [**_Rad sa nizovima_**](./ref/array.md) (TODO)
