@@ -4,7 +4,7 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 
 ## Vežbe
 
-[**_Kod sa vežbi (GitHub Web UI)_**](https://github.com/imioer/ds/tree/main/kodovi/vezbe)
+[**_Kod sa vežbi_**](kod-sa-vezbi/2023)
 
 ### Skripte
 - [**_Vežbe 1_**](vezbe/01.md)
