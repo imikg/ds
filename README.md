@@ -9,7 +9,7 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 ### Skripte
 - [**_Vežbe 1_**](vezbe/01.md)
 - [**_Vežbe 2_**](vezbe/02.md)
-- [**_Vežbe 3_**](vezbe/03.md) (TODO)
+- [**_Vežbe 3_**](vezbe/03.md)
 - [**_Vežbe 4_**](vezbe/04.md) (TODO)
 
 ## Reference
