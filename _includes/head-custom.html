@@ -3,16 +3,19 @@
 <!-- DarkmodeJS -->
 <!-- <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
 <script>
-function addDarkmodeWidget() {
-    new Darkmode().showWidget();
-}
-window.addEventListener('load', addDarkmodeWidget);
+    function addDarkmodeWidget() {
+        new Darkmode().showWidget();
+    }
+    window.addEventListener('load', addDarkmodeWidget);
 </script> -->
 
 <!-- NightlyJS -->
 <script src="https://cdn.jsdelivr.net/gh/fcmam5/nightly.js@v1.0/dist/nightly.min.js"></script>
 <script>
-var Nightly = new Nightly();
+    function addDarkmodeWidget() {
+        new Nightly().darkify();
+    }
+    window.addEventListener('load', addDarkmodeWidget);
 </script>
 
 
