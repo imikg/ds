@@ -14,6 +14,9 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 - [**_Vežbe 3_**](vezbe/03.md)
 - [**_Vežbe 4_**](vezbe/04.md) (in progress)
 
+### Zadaci
+- **Kolokvijum 2021/22** - [**_Download (.zip)_**](./kolokvijumi/reg-1-2021.zip)
+
 ## Reference
 
 - [**_IDE Shortcuts_**](reference/ide/shortcuts.md)
