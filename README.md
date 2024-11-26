@@ -12,7 +12,7 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 - [**_Vežbe 1_**](vezbe/01.md)
 - [**_Vežbe 2_**](vezbe/02.md)
 - [**_Vežbe 3_**](vezbe/03.md)
-- [**_Vežbe 4_**](vezbe/04.md) (in progress)
+- [**_Vežbe 4_**](vezbe/04.md)
 
 ### Kolokvijumi
 - **2021/22 - Rešenje** - [**_Download (.zip)_**](./kolokvijumi/reg-1-2021.zip)
