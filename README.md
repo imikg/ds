@@ -18,6 +18,7 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 - **Kolokvijum 2021/22 - Rešenje** - [**_Download (.zip)_**](./kolokvijumi/reg-1-2021.zip)
 - **Kolokvijum 2023/24 - Postavka** - [**_Download (.pdf)_**](./kolokvijumi/reg-2023-postavka.pdf)
 - **Popravni 2023/24 - Postavka** - [**_Download (.pdf)_**](./kolokvijumi/pop-2023-postavka.pdf)
+- **Popravni 2023/24 - Rešenje** - [**_Download (.zip)_**](./kolokvijumi/pop-2023-resenje.zip)
 
 ## Reference
 
