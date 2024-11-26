@@ -14,11 +14,12 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 - [**_Vežbe 3_**](vezbe/03.md)
 - [**_Vežbe 4_**](vezbe/04.md) (in progress)
 
-### Zadaci
-- **Kolokvijum 2021/22 - Rešenje** - [**_Download (.zip)_**](./kolokvijumi/reg-1-2021.zip)
-- **Kolokvijum 2023/24 - Postavka** - [**_Download (.pdf)_**](./kolokvijumi/reg-2023-postavka.pdf)
-- **Popravni 2023/24 - Postavka** - [**_Download (.pdf)_**](./kolokvijumi/pop-2023-postavka.pdf)
-- **Popravni 2023/24 - Rešenje** - [**_Download (.zip)_**](./kolokvijumi/pop-2023-resenje.zip)
+### Kolokvijumi
+- **2021/22 - Rešenje** - [**_Download (.zip)_**](./kolokvijumi/reg-1-2021.zip)
+- **2023/24 - Postavka** - [**_Download (.pdf)_**](./kolokvijumi/reg-2023-postavka.pdf)
+- **2023/24 - Rešenje (Marija Jolović)** - [**_Download (.zip)_**](./kolokvijumi/reg-2023-marija.zip)
+- **2023/24 Popravni - Postavka** - [**_Download (.pdf)_**](./kolokvijumi/pop-2023-postavka.pdf)
+- **2023/24 Popravni - Rešenje** - [**_Download (.zip)_**](./kolokvijumi/pop-2023-resenje.zip)
 
 ## Reference
 
